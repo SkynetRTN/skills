@@ -1,0 +1,8 @@
+test_id,file_id,required,optional,why
+m01,45997578,stray_light,wind_or_mount_shake,Moon limb in a corner of a frame with stars and a ghost disc
+m02,46165093,stray_light|wind_or_mount_shake,clouds_partial,glow entering from the top-left corner; stars are head-and-tail loops
+m03,46784255,satellite_trail|clouds_partial/stray_light/uncertain,,blotches across the frame; faint line
+m04,46562982,satellite_trail,clouds_partial|stray_light,two lines at different angles; stars round
+m05,46435682,nominal,,"Moon limb framing, no stars elsewhere"
+m06,46747322,stray_light,clouds_partial,glow from the right edge with a curved arc; stars sharp
+m07,46247202,clouds_partial/clouds_total/uncertain,,"few faint stars, mottled lifted background"

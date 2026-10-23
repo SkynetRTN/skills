@@ -1,0 +1,11 @@
+test_id,file_id,required,optional,why
+s01,46741543,out_of_focus,,every star a large donut
+s02,46596690,satellite_trail,,one straight line; stars round
+s03,46828468,not_tracking,,"every star a long uniform horizontal line, well over ten star-widths"
+s04,46323669,nominal,,M83 filling the frame; round stars; white core is display stretch
+s05,46842799,nominal,,"dense field, round stars"
+s06,46562982,satellite_trail,clouds_partial|stray_light,long line plus short line at another angle; stars round; smooth lift upper right is ambiguous
+s07,46301211,satellite_trail,clouds_partial,"one line; left edge is a SOFT darkening at full resolution, not a sharp lobe (key corrected after recheck)"
+s08,46247202,clouds_total/clouds_partial/uncertain,,"a handful of faint stars on a lifted, mottled background"
+s09,45997578,stray_light/off_center/uncertain,wind_or_mount_shake,Moon limb from the bottom-right corner; faint stars possibly short dashes
+s10,45846521,nominal,,"Jupiter with bands on black, inside the frame; no stars is expected"
